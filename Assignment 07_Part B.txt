@@ -1,0 +1,36 @@
+1. C
+2. B
+3. C
+4  D
+5. B
+6  B
+7 C
+8 B,C
+9 A,C
+10 A,D
+11. Outlier- It is an observation which lies abnormal distance from the other values in a dataset.
+    IQR= Q3 - Q1 where Q1 is first quartile and Q3 is the third quartile.
+    IQR method for finding Outier:
+    
+    1. Calculate the interquartile range for the data.
+    2. Multiply the interquartile range (IQR) by 1.5 (a constant used to discern outliers).
+    3. Add 1.5 x (IQR) to the third quartile. Any number greater than this is a suspected outlier.
+    4. Subtract 1.5 x (IQR) from the first quartile. Any number less than this is a suspected outlier.
+12.Bagging- Also Known as Bootstrap aggregation.It creates random sample of training data set and classifier is build for each random training data set.
+            The result is determined by using average or majority voting out of all the multiple classifiers formed by random sub set of training data. It help to reduce
+            variance error.
+
+   Boosting- It works on sequential learning where where each subsequent model attempts to correct the errors of the previous model. 
+             The succeeding models are dependent on the previous model. It helps to decrease the model bias.
+
+13  Adjusted R-squared is a modified version of R-squared that has been adjusted for the number of predictors in the model.  
+    Adjusted R-squared value can be calculated based on value of r-squared, number of independent variables (predictors),
+     total sample size. Every time you add a independent variable to a model
+
+14  Normalization usually means to scale a variable to have a values between 0 and 1.
+    standardization transforms data to have a mean of zero and a standard deviation of 1.
+    
+15  Cross-validation is a technique in which we train our model using the subset of the data-set and then evaluate using the complementary subset of the data-set. 
+    The three steps involved in cross-validation are as follows : Reserve some portion of sample data-set. Using the rest data-set train the model.
+    The advantage of this method is that the proportion of the validation or training split is not dependent on the number of folds (K-fold test). 
+    However, there is a disadvantage as well. There are chances that you might miss out some observations whereas you might select some observations more than once
