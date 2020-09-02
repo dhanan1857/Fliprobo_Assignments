@@ -1,0 +1,45 @@
+1. B
+2. D
+3. D
+4. A
+5. A
+6. C
+7. B
+8. A
+9. A and B
+10 B and D
+
+11. Deep Learning- Deep learning is a subset of machine learning in artificial intelligence that has networks capable of learning unsupervised from
+                   data that is unstructured or unlabeled. Also known as deep neural learning or deep neural network. 
+                   Deep learning is an AI function that mimics the workings of the human brain in processing data for use in detecting objects, 
+                   recognizing speech, translating languages, and making decisions.
+
+12. Reinforcement learning - Reinforcement learning is an area of Machine Learning. It is about taking suitable action to maximize reward in a 
+                             particular situation. It is employed by various software and machines to find the best possible behavior or path 
+                             it should take in a specific situation. Reinforcement learning differs from the supervised learning in a way that 
+                             in supervised learning the training data has the answer key with it so the model is trained with the correct answer itself 
+                             whereas in reinforcement learning, there is no answer but the reinforcement agent decides what to do to perform the given task. 
+                             In the absence of a training dataset, it is bound to learn from its experience.
+
+13.  Machine learning uses algorithms to parse data, learn from that data, and make informed decisions based on what it has learned
+     Deep learning structures algorithms in layers to create an "artificial neural network” that can learn and make intelligent decisions on its own
+     Deep learning is a subfield of machine learning. While both fall under the broad category of artificial intelligence,
+     deep learning is what powers the most human-like artificial intelligence.
+     Deep learnig requires a good hardware compre to machine learning.
+
+
+14. Perceptron - Perceptron is a single layer neural network.A Perceptron is an algorithm used for supervised learning of binary classifiers. 
+                 Binary classifiers decide whether an input, usually represented by a series of vectors, belongs to a specific class.
+                 They consist of four main parts including input values, weights and bias, net sum, and an activation function
+
+15. Artificial Intelligence 	                                                                 Machine learning
+1. Artificial intelligence is a technology which enables a machine to simulate human behavior. 	1. Machine learning is a subset of AI which allows a machine to automatically learn from past data without programming explicitly.
+2. The goal of AI is to make a smart computer system like humans to solve complex problems. 	2. The goal of ML is to allow machines to learn from data so that they can give accurate output.
+3. In AI, we make intelligent systems to perform any task like a human. 	                3. In ML, we teach machines with data to perform a particular task and give an accurate result.
+4. Machine learning and deep learning are the two main subsets of AI. 	                        4. Deep learning is a main subset of machine learning.
+5. AI has a very wide range of scope. 	                                                        5. Machine learning has a limited scope.
+6. AI is working to create an intelligent system which can perform various complex tasks. 	6. Machine learning is working to create machines that can perform only those specific tasks for which they are trained.
+7. AI system is concerned about maximizing the chances of success. 	                        7. Machine learning is mainly concerned about accuracy and patterns.
+8. The main applications of AI are Siri, customer support using catboats,                       8. The main applications of machine learning are Online recommender system, Google search algorithms, Facebook auto friend tagging suggestions, etc.
+   Expert System, Online game playing, intelligent humanoid robot, etc.                         9. It includes learning and self-correction when introduced with new data.
+9. It includes learning, reasoning, and self-correction	 
