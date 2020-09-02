@@ -1,0 +1,28 @@
+1. A) Create D) ALTER
+2. A) Update B) Delete C) Select
+3. B) Structured Query Language
+4. B) Data Definition Language
+5. A) Data Manipulation Language
+6. C) Create Table A (B int,C float)
+7. B) alter Table A ADD COLUMN D float;
+8. B) alter Table A drop Column D
+9. B) Alter Table A Alter Column D int
+10. A) Alter Table A Add Constraint Primary Key B
+
+11. Data-warehouse is the central repository or collection of data.
+         It contains data from different departments or systems of an organization integrated together in to a central repository, so that we can get the data from a single repository whenever required for analysis or other tasks.
+
+12. OLAP is online analytical processing. The OLAP systems are specially designed for analytical purposes that is they are deigned to analyze data efficiently.
+    The queries used in these systems are generally complex as these are used to do complex operations to analyze the data. 
+    The space required for these systems is also greater than OLTP systems as these systems hold historical data.
+    OLTP is online transactions processing systems. The OLTP systems are used to handle large number of short online transactions. 
+    The OLTP systems are mainly designed to do fast query processing. The queries used in OLTP systems are generally simple. The space required for these systems is comparatively smaller than OLAP systems.
+
+13. The characteristics of a data warehouse are as follows:
+    Subject-oriented: A data warehouse should contain information about a few well-defined subjects rather than the enterprise.
+    Integrated: A data warehouse is an integrated repository of data. It contains information from various systems within an organisation.
+    Non-volatile: The data values in a database cannot be changed without a valid reason.
+    Time-variant: A data warehouse contains historical data for analysis. 14. A star schema is the one in which a central fact table is surrounded by dimensional tables. A star schema can be further of two types – simple and complex star schema. A simple star schema has one fact table while a complex star schema may have multiple facts table.
+
+15. SETL are the operations of Select Extract Transform Load. Select operation means selecting the data which we want to analyze.
+    Extract operation includes connecting to the data source and pulling out the data. Transform operation includes converting the data into a standard form before pushing the data in to an schema. Load means loading the data into data warehouse
