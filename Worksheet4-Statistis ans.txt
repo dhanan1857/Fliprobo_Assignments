@@ -1,0 +1,66 @@
+1 a
+2.a
+3.b
+4.d
+5.C
+6.a
+7.b
+8.a
+9.c
+10. Normal Distribution- The normal distribution is a probability function that describes how the values of a variable are distributed. 
+                         It is a symmetric distribution where most of the observations cluster around the central peak and the probabilities 
+                         for values further away from the mean taper off equally in both directions.
+11.We have to use below techniques to impute missing data-
+   . Ignore the records with missing values
+   . Substitute a value such as mean/mode.
+   . Predict missing values.
+   . The Mean, median, mode imputation, regression imputation, stochastic regression imputation, 
+     KNN imputer are all methods that create a single replacement value for each missing entry.
+12. A/B testing (also known as split testing) is a process of showing two variants of the same web page to different segments of 
+    website visitors at the same time and comparing which variant drives more conversions.
+13. Bad practice in general
+    If just estimating means: mean imputation preserves the mean of the observed data
+    Leads to an underestimate of the standard deviation
+    Distorts relationships between variables by “pulling” estimates of the correlation toward zero
+14. Linear regression is a basic and commonly used type of predictive analysis.  The overall idea of regression is to examine two things: (1) does a set of 
+   predictor variables do a good job in predicting an outcome (dependent) variable?  (2) Which variables in particular are significant predictors of the 
+   outcome variable, and in what way do they–indicated by the magnitude and sign of the beta estimates–impact the outcome variable?  
+   These regression estimates are used to explain the relationship between one dependent variable and one or more independent variables.  
+   The simplest form of the regression equation with one dependent and one independent variable is defined 
+   by the formula y = c + b*x, where y = estimated dependent variable score, c = constant, b = regression coefficient, and x = score on the independent variable.
+15. The two branches of statistics are descriptive statistics and inferential statistics.
+     Descriptive Statistics:
+        Measures of central tendency
+        Measures of variability
+
+Measures of Central Tendency
+
+Measures of central tendency specifically help the statisticians to estimate the center of values distribution. These measures of tendency are:
+
+    Mean
+
+    This is the conventional method used in describing central tendency. Usually, to compute an average of values, you add up all the values and then divide them with the number of values available.
+    Median
+
+    This is the score found at the middle of a set of values. A simple way to calculate a median is to arrange the scores in numerical orders and then locate the score which is at the center of the arranged sample.
+    Mode
+
+    This is the frequently occurring value in a given set of scores.
+Measures of Variability
+
+The measure of variability help statisticians to analyze the distribution spread out of a given set of data. 
+Some of the examples of measures of variability include quartiles, range, variance and standard deviation.
+
+Inferential Statistics
+Inferential statistics are techniques that enable statisticians to use the gathered information from a sample to make inferences, decisions or predictions about a given population. Inferential statistics often talks in probability terms by using descriptive statistics. These techniques are majorly used by statisticians to analyze data, make estimates and draw conclusions from the limited information which is obtained by sampling and testing how reliable the estimates are.
+
+The different types of calculation of inferential statistics include:
+
+    Regression analysis
+    Analysis of variance (ANOVA)
+    Analysis of covariance (ANCOVA)
+    Statistical significance (t-test)
+    Correlation analysis
+
+
+   
