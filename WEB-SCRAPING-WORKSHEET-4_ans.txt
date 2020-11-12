@@ -1,0 +1,47 @@
+1. A
+2. C
+3. B
+4. D
+5. C
+6. A
+7. C
+8. C
+9. B
+10. D
+11. C
+12. A
+13. C
+14. B
+15.find()：
+
+Gets the first tag of the incoming HTML object that satisfies the condition and returns. A function of a label group or a single label.
+
+Prototype: find(tag, atributes, recursive, text, keywords)
+The parameter recursive:Whether to use a recursive method to traverse each sub-tab, the default is on, True. If set to False, findAll() only looks for the first-level label of the document. In general use, there is no need to change the default value of this parameter.
+
+Parameter text:Find the list of tags based on the text content of the tag, usually in conjunction with regular expressions
+
+Parameter keywords:A list of tags for the specified attribute within the tag. Similar to the attribute parameter, there is an exception when the class attribute is used to find the label. Direct findAll(class=‘green’) will report an error because class is a reserved word.
+
+
+findAll()：
+
+Get all the conditions of the incoming HTML object and return it.
+
+Prototype: findAll(tag, atributes, recursive, text, limit, keywords)
+
+Parameter tag:Indicates the type of tag you need to find. 
+
+Parameter attributes:The tag search is performed by using the attribute value corresponding to several attributes in the tag, and the attribute value may be multiple.
+
+The parameter recursive:Whether to use a recursive method to traverse each sub-tab, the default is on, True. If set to False, findAll() only looks for the first-level label of the document. In general use, there is no need to change the default value of this parameter.
+
+Parameter text:Find the list of tags based on the text content of the tag, usually in conjunction with regular expressions.
+Parameter limit:The range limit parameter can obviously only be used for the findAll() function. Limit the number of returns, such as how many tag information to extract as a sample.
+
+Parameter keywords:A list of tags for the specified attribute within the tag. Similar to the attribute parameter, there is an exception when the class attribute is used to find the label. Direct findAll(class=‘green’) will report an error because class is a reserved word.
+
+
+
+
+
