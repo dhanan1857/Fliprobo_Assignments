@@ -1,0 +1,43 @@
+1 B
+2.C
+3.A
+4.A
+5.C
+6.B
+7.B
+8.D
+9.A
+10. What Is Bayes' Theorem?
+Ans- Bayes' Theorem is a way of finding a probability when we know certain other probabilities.
+
+The formula is:
+
+P(A|B) = P(A) P(B|A)P(B)
+
+Which tells us: 	  	how often A happens given that B happens, written P(A|B),
+When we know: 	  	how often B happens given that A happens, written P(B|A)
+  	  	and how likely A is on its own, written P(A)
+  	  	and how likely B is on its own, written P(B)
+11. What is z-score?
+
+Ans- Simply put, a z-score (also called a standard score) gives you an idea of how far from the mean a data point is. But more technically 
+     it’s a measure of how many standard deviations below or above the population mean a raw score is.A z-score can be placed on a normal distribution 
+     curve. Z-scores range from -3 standard deviations (which would fall to the far left of the normal distribution curve) up to 
+     +3 standard deviations (which would fall to the far right of the normal distribution curve). 
+     In order to use a z-score, you need to know the mean μ and also the population standard deviation σ
+12. What is t-test?
+Ans- The t score is a ratio between the difference between two groups and the difference within the groups. The larger the t score, the more difference there is between groups. The smaller the t score, the more similarity there is between groups. A t score of 3 means that the groups are three times as different from each other as they are within each other. When you run a t test, the bigger the t-value, the more likely it is that the results are repeatable.
+
+    A large t-score tells you that the groups are different.
+    A small t-score tells you that the groups are similar.
+13. What is a percentile?
+Ans- percentile is a number where a certain percentage of scores fall below that number.
+     You might know that you scored 67 out of 90 on a test. But that figure has no real meaning 
+     unless you know what percentile you fall into. If you know that your score is in the 90th percentile, 
+     that means you scored better than 90% of people who took the test.
+14. What is ANOVA?
+Ans- Analysis of variance is a collection of statistical models and their associated estimation procedures used to 
+     analyze the differences among group means in a sample
+15. How can ANOVA help?
+Ans  An ANOVA test is a way to find out if survey or experiment results are significant. 
+    In other words, they help you to figure out if you need to reject the null hypothesis or accept the alternate hypothesis. 
