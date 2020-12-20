@@ -1,0 +1,23 @@
+1.B
+2.A
+3.A
+4.C
+5.C
+6.A
+7.B
+8.C
+9.B
+10.A,C
+11.A,C
+12. R2 shows how well terms (data points) fit a curve or line. Adjusted R2 also indicates how well terms fit a curve or line, 
+but adjusts for the number of terms in a model. If you add more and more useless variables to a model, adjusted r-squared will decrease. 
+If you add more useful variables, adjusted r-squared will increase.Adjusted R2 will always be less than or equal to R2.
+You only need R2 when working with samples. In other words, R2 isn’t necessary when you have data from an entire population.
+
+13.a cost function is a measure of how wrong the model is in terms of its ability to estimate the relationship between X and y. 
+   This is typically expressed as a difference or distance between the predicted value and the actual value.
+   The cost function (you may also see this referred to as loss or error.) 
+14. SST is the maximum sum of squares of errors for the data because the minimum information of Y itself was only used for the baseline model.
+    The difference between SST and SSR is remaining unexplained variability of Y after adopting the regression model, which is called as sum of 
+    squares of errors (SSE)
+15. The various metrics used to evaluate the results of the prediction are : Mean Squared Error(MSE) Root-Mean-Squared-Error(RMSE). Mean-Absolute-Error(MAE)
